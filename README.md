@@ -15,6 +15,10 @@ perto de nós, pelo Estado e a Cidade que estamos localizados. Os resíduos que 
 * Oléo de Cozinha
 * Lâmpadas
 
+<div align=center>
+  <img src="https://github.com/vagnerwentz/ecoleta-nlw/blob/master/.github/items.png" alt="Items" width=475/>
+</div>
+
 ## Funcionalidades :gear:
 * Cadastrar ponto de coleta
 * Uso do leaflet para integração com mapas
