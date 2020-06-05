@@ -82,3 +82,5 @@ npm install -g explo-cli
 npm start
 expo start
 ```
+## Visualização da aplicação
+[Web Screen](https://www.youtube.com/watch?v=2Qeve4oMyGc)
