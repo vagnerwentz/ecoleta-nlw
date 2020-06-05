@@ -4,6 +4,19 @@
 
 ----
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vagnerwentz/bootcamp-10-desafio-final?color=%34CB79">
+
+  <a href="https://github.com/vagnerwentz">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Vagner Wentz-%34CB79">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%34CB79">
+
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/vagnerwentz/bootcamp-10-desafio-final?style=social">
+</p>
+
+
 ## Sobre :satellite:
 O Ecoleta é um projeto ambiental onde podemos cadastrar pontos de coletas, e também podemos descobrir o mais próximo
 perto de nós, pelo Estado e a Cidade que estamos localizados. Os resíduos que podemos fazer filtros são
