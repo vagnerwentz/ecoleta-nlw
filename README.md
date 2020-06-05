@@ -33,7 +33,7 @@ perto de nós, pelo Estado e a Cidade que estamos localizados. Os resíduos que 
 ## Como instalar o projeto
 Para a execução do projeto, você necessariamente precisa clonar o projeto na sua máquina, com o comando
 ```
-git clone https://github.com/vagnerwentz/ecoleta-nlw.git
+$ git clone https://github.com/vagnerwentz/ecoleta-nlw.git
 ```
 Logo em seguida você deve ir até o local onde você clonou o projeto e então abaixo as instruções pra cada um.
 
@@ -43,26 +43,26 @@ Este link [ImagensSVG](https://gofile.io/d/zhFv6T), contém as SVG do aplicativo
 na pasta uploads que tem no back-end.
 ```
 # Instalação do node_modules
-npm install
+$ npm install
 
 # Criar as tabelas do banco de dados
-npm run knex:migrate
+$ npm run knex:migrate
 
 # Seed de itens de coleta
-npm run knex:seed
+$ npm run knex:seed
 
 # Rodar o back-end
-npm run dev
+$ npm run dev
 ```
 
 ## :computer: Front-end
 Para a execução do front-end você necessariamente precisa entrar na pasta `web`.
 ```
 # Instalação do node_modules
-npm install
+$ npm install
 
 # Rodar o front-end
-npm start
+$ npm start
 ```
 
 ## :iphone: Mobile
@@ -76,11 +76,18 @@ Para a utilização de um emulador com o Expo, deixarei um link guia para config
 
 ```
 # Instalando o Expo
-npm install -g explo-cli
+$ npm install -g explo-cli
 
 # Executando o projeto no Expo (Duas maneiras.)
-npm start
-expo start
+$ npm start
+$ expo start
 ```
 ## Visualização da aplicação
 [Web Screen](https://www.youtube.com/watch?v=2Qeve4oMyGc)
+[Mobile Screen](https://www.youtube.com/watch?v=JcGc2KP3Nbk)
+
+## Como contribuir com o projeto?
+1. Faça um fork do projeto
+2. Criar uma nova branch com as suas alterações: `git checkout -b your-feature`
+3. Salvar as alterações e crie uma mensagem de `commit`relatando o que você fez: `git commit -m "feature: description"`
+4. Enviar suas alterações: `git push origin your-feature`
