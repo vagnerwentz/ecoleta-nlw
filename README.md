@@ -39,6 +39,8 @@ Logo em seguida você deve ir até o local onde você clonou o projeto e então 
 
 ## :wrench: Back-end
 Para a execução do back-end você necessariamente precisa entrar na pasta `server`.
+Este link [ImagensSVG](https://gofile.io/d/zhFv6T), contém as SVG do aplicativo, você precisa baixar elas e colocar
+na pasta uploads que tem no back-end.
 ```
 # Instalação do node_modules
 npm install
