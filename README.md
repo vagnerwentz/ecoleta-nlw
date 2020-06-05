@@ -84,6 +84,7 @@ $ expo start
 ```
 ## Visualização da aplicação
 [Web Screen](https://www.youtube.com/watch?v=2Qeve4oMyGc)
+
 [Mobile Screen](https://www.youtube.com/watch?v=JcGc2KP3Nbk)
 
 ## Como contribuir com o projeto?
